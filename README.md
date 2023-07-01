@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently freelancing on Bionluk platform<br>👯 I’m currently studying Computer Engineering at university<br>⚡ I'm trying to gain new experiences in Web Development<br>🌱 I’m currently learning NextJS technology
+🔭 I’m currently freelancing on Bionluk platform<br>👯 I’m currently studying Computer Engineering at university<br>⚡ I'm trying to gain new experiences in Web Development
 <br>
 <br>
 
