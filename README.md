@@ -5,12 +5,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently freelancing on Bionluk platform<br>👯 I’m currently studying Computer Engineering at university<br>⚡ I'm trying to gain new experiences in Web Development
+🔭 I am currently working as a freelancer on the Bionluk platform<br>👯 I am currently a Computer Engineering student at Necmettin Erbakan University<br>⚡ I'm trying to gain new experiences in Web Development
 <br>
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jupiterinvarisi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emrekahrimann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emrekhrmn_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yemrekahriman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emrekahrimann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emrekhrmn_) 
 <br>
 <br>
 
